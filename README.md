@@ -115,4 +115,5 @@ Aplikasi ini menggunakan arsitektur Model-View-ViewModel (MVVM) untuk mengelola 
 - Setelah berhasil, halaman daftar diperbarui tanpa data yang dihapus.
 
 ## Dokumentasi
-
+---
+https://github.com/user-attachments/assets/9597a599-59be-49dd-af90-22a5586a222c
