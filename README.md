@@ -36,6 +36,7 @@ Project/
 ```
 
 ## Desain Program
+---
 
 Aplikasi ini menggunakan arsitektur Model-View-ViewModel (MVVM) untuk mengelola data coffeeshop, seperti produk, kategori, dan pesanan. Berikut struktur utama program:
 
@@ -54,6 +55,7 @@ Aplikasi ini menggunakan arsitektur Model-View-ViewModel (MVVM) untuk mengelola 
   - Halaman utama aplikasi, biasanya sebagai entry point dan router sederhana.
 
 ## Penjelasan Alur Aplikasi
+---
 
 1. **User Interaction**
 
